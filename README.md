@@ -14,8 +14,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -27,12 +25,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./Screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution You Can Follow](https://youtu.be/B2WL6KkqhLQ)
+- Live Site URL: [My Live Site](https://fem-product-card-component-main.netlify.app/)
 
 ## My process
 
@@ -48,8 +46,6 @@ Users should be able to:
 
 - [CSS hidden Class](https://css-tricks.com/inclusively-hidden/) - This helped me in hiding some html element to make it only accessible to screen readers.
 - [CSS reset](https://www.joshwcomeau.com/css/custom-css-reset/) - This helped me in resetting the inital CSS of the browser.
-
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
 
 ## Author
 
